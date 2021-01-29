@@ -4,5 +4,5 @@
 - CSS
 - JavaScript
 ### Библиотеки:
-- Bootstrap
+- Bootstrap v4
 - Swiper Slider JS
