@@ -3,6 +3,6 @@
 - HTML
 - CSS
 - JavaScript
-Библиотеки:
+# Библиотеки:
 - Bootstrap
 - Swiper Slider JS
