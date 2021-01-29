@@ -1,8 +1,8 @@
 # Willberries - Учебный проект в Glo Academy
-В проекте использовались технологии:
+##В проекте использовались технологии:
 - HTML
 - CSS
 - JavaScript
-# Библиотеки:
+### Библиотеки:
 - Bootstrap
 - Swiper Slider JS
